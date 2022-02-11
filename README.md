@@ -13,7 +13,7 @@
 Clone the repository:
 
 ```
-git clone https://github.com/boredcoderyt/Advance-Email-Bomber
+git clone https://github.com/oplogix/Email-Bomber.git
 ```
 
 Navigate to folder:
