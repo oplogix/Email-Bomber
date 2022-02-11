@@ -55,7 +55,7 @@ if provider == 1:
 elif provider == 2:
     smtp_server = "smtp.office365.com"
 elif provider == 3:
-    smtp_server = input("smtp.mail.yahoo.com: ")
+    smtp_server = "smtp.mail.yahoo.com: "
 elif provider == 4:
     smtp_server = input("Enter custom STMP server: ")
 else:
