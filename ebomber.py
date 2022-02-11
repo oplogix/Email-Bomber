@@ -46,7 +46,8 @@ print("""
 print("Choose your email provider: ")
 print("(1) Gmail")
 print("(2) Outlook/Hotmail")
-print('(3) Custom')
+print('(3) Yahoo')
+print('(4) Other')
 provider = int(input("\n>> "))
 
 if provider == 1:
