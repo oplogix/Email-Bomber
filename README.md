@@ -1,6 +1,6 @@
 # Email Bomber
 
-
+Works for kali and termux
 
 ## Features
 
