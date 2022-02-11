@@ -10,6 +10,8 @@ Works for kali and termux
 
 ## Instructions
 
+Change your settings in your mail to Less Secure App Access
+
 Clone the repository:
 
 ```
