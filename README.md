@@ -35,3 +35,4 @@ python3 ebomber.py
 This is licenced under GNU General Public License v3.0
  
  # Educational Use Only
+Don't blame me for what you do
