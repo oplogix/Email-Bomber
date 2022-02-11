@@ -18,6 +18,10 @@ git clone https://github.com/boredcoderyt/Advance-Email-Bomber
 
 Navigate to folder:
 
+```
+cd Email-Bomber
+```
+
 Install requirements:
 ```
 pip install -r requirements.txt
