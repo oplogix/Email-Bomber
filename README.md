@@ -27,7 +27,7 @@ Install requirements:
 pip install -r requirements.txt
 ```
 
-Use CLI version:
+Usage:
 ```
 python3 ebomber.py
 ```
