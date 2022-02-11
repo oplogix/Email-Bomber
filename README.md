@@ -31,7 +31,7 @@ Use CLI version:
 ```
 python3 ebomber.py
 ```
- * Liscence
- This is liscnenced under GNU General Public License v3.0
+** Licence
+This is licenced under GNU General Public License v3.0
  
  * Educational Use Only
