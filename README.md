@@ -1,6 +1,6 @@
 # Email Bomber
 
-Works for kali and termux
+Working last time I tried
 
 ## If using GMAIL with 2 Factor
 You must generate and app password to log in with. ** Not your normal password**
